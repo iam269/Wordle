@@ -10,7 +10,7 @@ Challenge yourself daily and share your results! 📊
 
 ## 🌐 Play Online
 
-Experience the game live at: [https://iam269.github.io/Wordle/](https://iam269.github.io/Wordle/)
+Experience the game live at: [https://itsiamddev.github.io/Wordle/](https://itsiamdev.github.io/Wordle/)
 
 ## 📁 Project Structure
 
